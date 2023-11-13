@@ -1,12 +1,14 @@
-name: release-please
 on:
-  # !STARTERCONF Choose your preferred event
-  # !Option 1: Manual Trigger from GitHub
-  workflow_dispatch:
-  # !Option 2: Release on every push on main branch
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: Bump release version
+
 jobs:
   release-please:
     runs-on: ubuntu-latest
@@ -14,4 +16,4 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
-          package-name: release-please-action
+          package-name: ts-nextjs-tailwind-starter
