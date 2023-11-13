@@ -4,6 +4,21 @@
 
 This changelog is manually generated and not accurate with the package.json, only to show the changes since the last release.
 
+## [1.2.0](https://github.com/kohyeeru/my-first-nextjs/compare/v1.1.0...v1.2.0) (2023-11-13)
+
+
+### Features
+
+* **github workflows:** add pr title check ([0a007ae](https://github.com/kohyeeru/my-first-nextjs/commit/0a007aeb9fdd3165094db7b190f9f29dd00cca7e))
+* **github workflows:** fix regex in pr semantic check yml ([d744032](https://github.com/kohyeeru/my-first-nextjs/commit/d744032ed7975771d9cd78b5e48b3ccdc75c3959))
+* **github:** add semantic yml ([0c47863](https://github.com/kohyeeru/my-first-nextjs/commit/0c4786314653d558d7059709bb36dbad88f24059))
+
+
+### Bug Fixes
+
+* **github workflows:** send help ([0597568](https://github.com/kohyeeru/my-first-nextjs/commit/059756892436e1751ec57160209dbd56883ff457))
+* **github workflows:** value of pr title ([c74d49e](https://github.com/kohyeeru/my-first-nextjs/commit/c74d49e37d8a4c21642b09c5b64d9c5e8e88b0be))
+
 ## [1.1.0](https://github.com/kohyeeru/my-first-nextjs/compare/v1.0.0...v1.1.0) (2023-11-13)
 
 
