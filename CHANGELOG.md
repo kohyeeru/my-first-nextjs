@@ -4,6 +4,19 @@
 
 This changelog is manually generated and not accurate with the package.json, only to show the changes since the last release.
 
+## [1.1.0](https://github.com/kohyeeru/my-first-nextjs/compare/v1.0.0...v1.1.0) (2023-11-13)
+
+
+### Features
+
+* **mock:** added some feature ([10f9a5b](https://github.com/kohyeeru/my-first-nextjs/commit/10f9a5ba789fd3fb9d2abf49198473d81f1cd9f8))
+
+
+### Bug Fixes
+
+* **github workflows:** syntax error in deploy yml ([a6fabe7](https://github.com/kohyeeru/my-first-nextjs/commit/a6fabe70d41975bb8e6a144425e0fa2e754b7cb6))
+* **github workflows:** syntax error in deploy yml ([4cdce8f](https://github.com/kohyeeru/my-first-nextjs/commit/4cdce8fd481ee204233b949a996f3b73c3279911))
+
 ## 1.0.0 (2023-11-13)
 
 
