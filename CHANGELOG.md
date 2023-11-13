@@ -4,6 +4,14 @@
 
 This changelog is manually generated and not accurate with the package.json, only to show the changes since the last release.
 
+## 1.0.0 (2023-11-13)
+
+
+### Features
+
+* **github workflows:** add deploy yml ([e6522c2](https://github.com/kohyeeru/my-first-nextjs/commit/e6522c2e990506e9dd3ac445279c092a7548cd2b))
+* **mock:** add mock 3 ([#4](https://github.com/kohyeeru/my-first-nextjs/issues/4)) ([1e857be](https://github.com/kohyeeru/my-first-nextjs/commit/1e857befb3a39c09d2b4658151dba1ad5467c471))
+
 ## 0.5.4 - 2022-07-22
 
 ### New Features
@@ -410,4 +418,3 @@ Snippets: `reg`
 ```
 
 You should also use [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) extension.
-
