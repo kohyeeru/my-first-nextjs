@@ -17,7 +17,7 @@ jobs:
 
       - name: Check PR title
         run: |
-          PR_TITLE=${{ github.event.pull_request.title }}
+          PR_TITLE="${{ github.event.pull_request.title }}"
           
           echo "${{ toJson(github.event.pull_request) }}"
           echo "$PR_TITLE"
